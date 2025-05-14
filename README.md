@@ -12,14 +12,6 @@ AI Flip Four is a strategic game based on the popular Connect Four game, enhance
 - **Save and Load Data**: Supports saving and loading learning data for Q-Learning agents using Pickle files.
 - **Game Customization**: Option to flip the board at certain intervals, adding an extra layer of complexity.
 
-## Installation
-
-### Prerequisites
-
-- Python 3.x
-- Pygame
-- Other dependencies are listed in `requirements.txt`.
-
 ### Setup
 
 1. Clone the repository:
